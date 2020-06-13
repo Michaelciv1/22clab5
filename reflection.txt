@@ -1,0 +1,10 @@
+Michael Wallerius
+Lab 5 Reflection
+22C
+
+The main concepts that I covered while doing this lab were implementations of graphs and adjacency lists. In my head it was a lot easier to picture
+how and adjacency list should work than it was to actually code it. Because this lab relied a lot on lists, I was able to reuse some of the code 
+for printing lists from Lab 1. I didn't think to use anything else before I had already written code specifically for this lab. There was probably
+more I could have drawn from and I'll keep that in mind in the future to look back at old work. I could have used and adjacency matrix for this graph,
+but because there are so many gaps in the data making it less dense, it would have been very inefficient. The space complexity for the implementation
+of this graph is O(V) with V representing verticies. The time complexity to search for a course is O(V + E) with E representing edges. 
