@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1592028563 source:c:\users\michael-gpc\documents\code blocks work\lab 5\main.cpp
+	<iostream>
+	"graph.hpp"
+
+1592028551 c:\users\michael-gpc\documents\code blocks work\lab 5\graph.hpp
+	<stdio.h>
+	<string>
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<sstream>
+
+1592028964 source:c:\users\michael-gpc\documents\code blocks work\lab 5\graph.cpp
+	"graph.hpp"
+

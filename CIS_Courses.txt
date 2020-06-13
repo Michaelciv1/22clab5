@@ -1,0 +1,41 @@
+CIS14A, Visual Basic .NET Programming I
+CIS14B, Visual Basic .NET Programming II, CIS14A
+CIS18A, Introduction to Unix/Linux
+CIS18B, Advanced Unix/Linux, CIS18A
+CIS18C, Bash Scripting, CIS18B
+CIS21JA, Introduction to x86 Processor Assembly Language and Computer Architecture, CIS22B, CIS26A
+CIS21JB, Advanced x86 Processor Assembly Programming, CIS21JA
+CIS22A, Beginning Programming Methodologies in C++
+CIS22B, Intermediate Programming Methodologies in C++, CIS22A
+CIS22C, Data Abstraction and Structures, CIS22B, CIS35A
+CIS26A, C as a Second Programming Language, CIS22A
+CIS26B, Advanced C Programming, CIS26A
+CIS27, Programming in C++ for C/Java Programmers, CIS22A, CIS36A
+CIS28, Object Oriented Analysis and Design
+CIS29, Advanced C++ Programming, CIS22B, CIS27
+CIS30A, Introduction to C# Programming
+CIS30B, Advanced C# Programming, CIS30A
+CIS31, Operating System Concepts
+CIS33A, Programming in Perl
+CIS33B, Advanced Perl Programming, CIS33A
+CIS35A, Java Programming
+CIS35B, Intermediate Problem Solving in Java, CIS35A
+CIS36A, Introduction to Computer Programming Using Java
+CIS40, Introduction to Programming in Python
+CIS41A, Python Programming, CIS40
+CIS41B, Advanced Python Programming, CIS41A
+CIS64A, Database Management Systems
+CIS64B, Introduction to SQL, CIS64A
+CIS64C, Introduction to PL/SQL, CIS64B
+CIS64D, Database Tuning, CIS64C
+CIS64E, Introduction to Large Scale Processing Systems, CIS64D
+CIS64F, Introduction to Big Data and Analytics, CIS64E
+CIS66, Introduction to Data Communications and Networking
+CIS67A, Local Area Networks
+CIS67B, Introduction to Wide Area Networking
+CIS73, Unix/Linux Systems Programming, CIS18A, CIS26B
+CIS74, Software Quality Assurance
+CIS75A, Internet Concepts and TCP/IP Protocols, CIS66
+CIS75B, Internet Programming with TCP/IP, CIS26B
+CIS75D, Enterprise Security Policy management
+CIS75E, Enterprise Emergency Response Planning
