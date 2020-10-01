@@ -1,6 +1,6 @@
 Michael Wallerius
 Lab 5 Reflection
-22C asdiojfaio
+22C 
 
 The main concepts that I covered while doing this lab were implementations of graphs and adjacency lists. In my head it was a lot easier to picture
 how and adjacency list should work than it was to actually code it. Because this lab relied a lot on lists, I was able to reuse some of the code 
